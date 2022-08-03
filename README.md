@@ -32,3 +32,5 @@ This project is an application called Note Taker that can be used to write and s
   ## Screen shots
 
   ![Shot-1](./public/assets/ScreenShots/Screenshot.png)
+  
+  ![gif1_AdobeExpress](https://user-images.githubusercontent.com/102123208/182514928-a6a7ba2c-abb5-4e89-93ed-1b0fcb40dcfb.gif)
