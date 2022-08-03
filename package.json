@@ -26,8 +26,11 @@
   },
   "homepage": "https://github.com/ykangarani/Note-Taker#readme",
   "dependencies": {
+    "encoding": "^0.1.13",
     "express": "^4.18.1",
     "jest": "^28.1.3",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "require": "^2.4.20",
+    "uniqid": "^5.4.0"
   }
 }
