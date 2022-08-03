@@ -18,6 +18,14 @@ This project is an application called Note Taker that can be used to write and s
 - WHEN I click on the Write icon in the navigation at the top of the page
 - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+# How to use it?
+
+- As you run the application press the button "Get started"
+- Click on new Title to add your Title
+- Click on note text to add your note
+- After finishing your note on the top right side of the app click on save button
+- If you want to see your saved notes simply click on it
+- If you want to delete your saved note click on trash button which is located on the each saved note to remove it.
 
 ## Built With
 - HTML
